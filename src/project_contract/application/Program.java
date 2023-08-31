@@ -10,6 +10,10 @@ import project_contract.entities.Installment;
 import project_contract.services.ContractService;
 import project_contract.services.PaypalService;
 
+/*
+ * This project is a service about payments with installments with specifics fees
+ * 
+ */
 public class Program {
 
 	public static void main(String[] args) {
